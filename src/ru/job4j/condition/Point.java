@@ -10,6 +10,6 @@ public class Point {
     int x2 = 2;
     int y1 = 3;
     int y2 = 4;
-    System.out.println("result (" + x1 + "," + y1 + ") to (" + x2 +"," + y2 + ") " + Point.distance(x1, y1, x2, y2));
+    System.out.println("result (" + x1 + "," + y1 + ") to (" + x2 + "," + y2 + ") " + Point.distance(x1, y1, x2, y2));
   }
 }
