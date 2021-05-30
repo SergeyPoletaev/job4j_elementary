@@ -12,4 +12,5 @@ public class MainTest {
     int result = 1;
     assertThat(result, is(excepted));
   }
+
 }
