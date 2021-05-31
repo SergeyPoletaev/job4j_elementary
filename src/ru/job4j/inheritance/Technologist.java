@@ -1,4 +1,4 @@
-package ru.job4j;
+package ru.job4j.inheritance;
 
 public class Technologist extends Engineer {
   private Double timeStart;
