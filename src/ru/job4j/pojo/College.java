@@ -9,10 +9,10 @@ public class College {
         student.setFio("Poletaev S.V.");
         student.setGroup("15-P");
         student.setStartDate(new Date());
-        System.out.println(student.getFio() +
-                System.lineSeparator() +
-                student.getGroup() +
-                System.lineSeparator() +
-                student.getStartDate());
+        System.out.println(student.getFio()
+                + System.lineSeparator()
+                + student.getGroup()
+                + System.lineSeparator()
+                + student.getStartDate());
     }
 }
