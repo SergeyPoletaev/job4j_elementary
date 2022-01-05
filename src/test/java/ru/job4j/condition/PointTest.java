@@ -6,17 +6,6 @@ import org.junit.Test;
 public class PointTest {
 
     @Test
-    public void when00to00ThenDist0() {
-        int x1 = 0;
-        int y1 = 0;
-        int x2 = 0;
-        int y2 = 0;
-        double expected = 0;
-        double rsl = Point.distance(x1, y1, x2, y2);
-        Assert.assertEquals(expected, rsl, 0.01);
-    }
-
-    @Test
     public void when00to01ThenDist1() {
         int x1 = 0;
         int y1 = 0;
