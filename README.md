@@ -9,3 +9,5 @@
 - модульное тестирование
 - IDEA
 - Основы GIT
+
+[![build](https://github.com/SergeyPoletaev/job4j_elementary/workflows/build/badge.svg)](https://github.com/SergeyPoletaev/job4j_elementary/actions)
